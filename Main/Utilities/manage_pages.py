@@ -11,6 +11,7 @@ from Main.PageObject.web.new_bank_account_page import Bank_Account_Page
 from Main.PageObject.web.notifications_page import Notification_Page
 from Main.PageObject.web.register_page import RegisterPage
 
+
 class Manage_Pages:
 
     @staticmethod
